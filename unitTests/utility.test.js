@@ -1,5 +1,5 @@
 const {expect} = require('chai');
-const bsv = require('bsv');
+const bsv = require('@vaionex/bsv');
 const utility = require('../lib/utility');
 const dummyData = require('./dummyData');
 

@@ -1,4 +1,4 @@
-const bsv = require('bsv')
+const bsv = require('@vaionex/bsv')
 const { stasAcceptSwap, stasTransfer , stasIssuance, stasContract, stasSplit, stasRedeem, stasRedeemSplit, stasMerge , stasMergeSplit, stasCreateSwap, utility, tokenSchemaTemplate} = require('../index');
 
 /**

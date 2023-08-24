@@ -1,4 +1,4 @@
-const bsv = require('bsv');
+const bsv = require('@vaionex/bsv');
 
 /**
  * Use this file to log random private key and its address for use in testing

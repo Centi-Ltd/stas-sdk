@@ -148,7 +148,7 @@ ni index.js
 
 5. Import required libraries: In your index.js file, import the required libraries using the require function. Here's an example:
 ```
-const bsv = require('bsv');
+const bsv = require('@vaionex/bsv');
 const stas = require('stas-sdk');
 
 // or to get single functions directly 
